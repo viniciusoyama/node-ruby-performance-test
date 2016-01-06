@@ -1,0 +1,11 @@
+source 'http://rubygems.org'
+
+gem 'rubygems-update'
+gem 'byebug'
+gem 'bundler'
+gem 'sinatra'
+gem 'mongoid'
+gem 'json'
+# gem 'thin'
+gem 'unicorn'
+# gem 'puma'
